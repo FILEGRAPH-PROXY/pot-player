@@ -15,5 +15,3 @@ Pot player
 
 لینک دانلود مستقیم از گوگل پلی استور برای اندروید 
 https://play.google.com/store/apps/details?id=multimedia.mediaplayer.potplayer
-برای اینکه فایلو دانلود کنید به پست مربوطه در تلگرام مراجعه کنید
-https://t.me/c/1156489806/18264
